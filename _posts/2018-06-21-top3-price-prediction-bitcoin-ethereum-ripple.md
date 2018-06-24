@@ -5,6 +5,7 @@ subtitle: BTC gets to first base, ETH & XRP on the run
 tags: [BTC, ETH, XRP, Coin Price]
 ---
 
+
 - The BTC/USD conquers the **EMA50** and saves the first Match Ball.
 
 - ETH/USD and XRP/USD fall short in their attempt and now wait for a second wave to hit the target.
@@ -49,3 +50,4 @@ The **MACD** at 240-Min chart shows us a less developed indicator, still below t
 
 The **Directional Movement Index** at 240 Min shows us a dead heat between buyers and sellers that should bring a "tie-breaker" it in the next hours. The ADX is far above, so if Ripple wants to have its invitation to a possible bull party, it should find an afterburn output system which moves it faster upwards.
 
+[Tomas Salles](https://www.fxstreet.com/author/tomas-salles)
