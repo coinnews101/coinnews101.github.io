@@ -2,7 +2,7 @@
 layout: post
 title: Bitcoin Price Defends $6K as Traders Go Long
 tags: [BitCoin, Trading]
-bigimg: /img/20180627/tire-destroy.png
+bigimg: /img/20180628/BTC.png
 ---
 
 
